@@ -465,6 +465,17 @@
 			)
 		)
 	)
+	(label "test madison"
+		(at 86.36 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b9f63077-1fc4-4e64-a474-6ee21c29c29b")
+	)
 	(symbol
 		(lib_id "Detection_Eval_lib:ESP_Hold")
 		(at 146.05 80.01 0)
