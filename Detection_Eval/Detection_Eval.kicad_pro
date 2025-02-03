@@ -396,6 +396,10 @@
     [
       "9f3c3e91-49e1-44ce-8eac-4b6a04a39756",
       "Root"
+    ],
+    [
+      "5cfe605e-f213-42b5-b03e-26c4940f7dbf",
+      "ESP8366"
     ]
   ],
   "text_variables": {}
