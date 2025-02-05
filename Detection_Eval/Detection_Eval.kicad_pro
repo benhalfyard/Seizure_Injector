@@ -400,6 +400,10 @@
     [
       "5cfe605e-f213-42b5-b03e-26c4940f7dbf",
       "ESP8366"
+    ],
+    [
+      "eb322975-5a4a-4116-8f1b-2954f8aa67d5",
+      "Battery"
     ]
   ],
   "text_variables": {}
