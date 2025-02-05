@@ -2769,6 +2769,17 @@
 		)
 		(uuid "4741aff9-7216-4781-8e72-3aad1dd5c73e")
 	)
+	(text "MP3 MOVING TO BEN'S BOARD"
+		(exclude_from_sim no)
+		(at 51.562 26.416 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4a283e64-2b38-44b7-94df-06c3cc458e0f")
+	)
 	(text "ACCELEROMETER ADO PIN: \nIF PIN IS LOW, I2C ADDR IS 0x68\nIF PIN IS HIGH, I1C ADDR IS 0x69"
 		(exclude_from_sim no)
 		(at 139.446 75.184 0)
