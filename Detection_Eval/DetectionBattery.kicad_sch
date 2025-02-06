@@ -5000,7 +5000,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 93.472 162.56 90)
 			(effects
 				(font
@@ -5539,7 +5539,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 42.8752 168.91 0)
 			(effects
 				(font
@@ -6138,7 +6138,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 93.472 175.26 90)
 			(effects
 				(font
@@ -6762,7 +6762,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Detection_Eval_lib_fp:IND_IHLP-2020CZ"
 			(at 53.34 142.24 0)
 			(effects
 				(font
@@ -6780,7 +6780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "IHLP2020CZER1R0M01"
 			(at 53.34 142.24 0)
 			(effects
 				(font
@@ -6879,25 +6879,24 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "935f494f-46e7-46b6-956d-5039278c8e6d")
 		(property "Reference" "D1"
-			(at 148.2725 49.53 0)
+			(at 150.114 59.436 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at 148.2725 52.07 0)
+		(property "Value" "150060YS75000"
+			(at 152.146 61.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 149.86 55.88 0)
 			(effects
 				(font
@@ -6915,7 +6914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Light emitting diode"
+		(property "Description" "150060YS75000 "
 			(at 149.86 55.88 0)
 			(effects
 				(font
@@ -7689,7 +7688,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 129.2352 171.45 0)
 			(effects
 				(font
@@ -8463,7 +8462,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 30.1752 167.64 0)
 			(effects
 				(font
@@ -8603,7 +8602,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 113.9952 171.45 0)
 			(effects
 				(font

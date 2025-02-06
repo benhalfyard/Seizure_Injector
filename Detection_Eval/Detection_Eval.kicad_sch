@@ -2805,7 +2805,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Detection_Eval_lib_fp:LCDSCREEN"
 			(at 54.61 149.86 0)
 			(effects
 				(font
@@ -2892,7 +2892,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 229.5652 68.58 0)
 			(effects
 				(font
@@ -4209,7 +4209,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 199.0852 66.04 0)
 			(effects
 				(font

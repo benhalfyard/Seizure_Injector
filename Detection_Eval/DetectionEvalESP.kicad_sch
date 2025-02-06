@@ -1512,7 +1512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Module:Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles"
+		(property "Footprint" "Module:Adafruit_HUZZAH_ESP8266_breakout"
 			(at 146.05 99.06 0)
 			(effects
 				(font
@@ -1643,7 +1643,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 97.536 87.884 90)
 			(effects
 				(font
