@@ -3230,7 +3230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+BATT"
+		(property "Value" "+5V"
 			(at 238.76 41.91 0)
 			(effects
 				(font
@@ -3296,7 +3296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+BATT"
+		(property "Value" "+5V"
 			(at 250.19 85.09 0)
 			(effects
 				(font
@@ -3577,7 +3577,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+BATT"
+		(property "Value" "+5V"
 			(at 208.28 40.64 0)
 			(effects
 				(font
