@@ -479,7 +479,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Detection_Eval_PCB/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
